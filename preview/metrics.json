@@ -1,0 +1,14 @@
+{
+  "transactions": 31432,
+  "rejected_rows": 0,
+  "entities": 34133,
+  "auprc": 0.5564270025030196,
+  "precision_at_10": 0.6,
+  "precision_at_50": 0.9,
+  "precision_at_100": 0.69,
+  "recall_planted": 0.8666666666666667,
+  "evidence_completeness": 1.0,
+  "cold_start_holdout_recall": 0.0,
+  "baseline_flagged": 342,
+  "baseline_precision": 0.32456140350877194
+}
